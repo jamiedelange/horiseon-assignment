@@ -9,4 +9,5 @@ The purpose of the refactor was to add multiple missing accessibility factors in
 file:///Users/jamiedelange/Desktop/projects/assignment-1/horiseon-assignment/Develop/index.html
 
 ![screenshot 1](.//Users/jamiedelange/Desktop/projects/assignment-1/horiseon-assignment/horiseon-ss1.png)
+
 ![screenshot 2](.//Users/jamiedelange/Desktop/projects/assignment-1/horiseon-assignment/horiseon-ss2.png)
