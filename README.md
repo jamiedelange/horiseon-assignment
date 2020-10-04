@@ -4,7 +4,7 @@ Horiseon is a marketing company whose landing page required a refactorization in
 
 ## Purpose of refactor
 
-The purpose of the refactor was to include multiple missing accessibility factors including alt text for images and comments in the source code.
+The purpose of the refactor was to add multiple missing accessibility factors including alt text for images and comments in the source code.
 
 file:///Users/jamiedelange/Desktop/projects/assignment-1/horiseon-assignment/Develop/index.html
 
